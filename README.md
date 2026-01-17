@@ -1,4 +1,4 @@
-# 🌙 Discord Webhook Sender Pro
+# 🌙 Discord Webhook Sender 
 
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
